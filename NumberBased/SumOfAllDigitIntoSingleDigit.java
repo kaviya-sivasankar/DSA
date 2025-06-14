@@ -27,11 +27,7 @@ while(input1 > 0){
 int digit = input1 % 10;
 
 sum += digit;
-while(input1 > 0){
 
-int digit input1% 10;
-
-sum += digit;
 
 input1 /= 10;
 
