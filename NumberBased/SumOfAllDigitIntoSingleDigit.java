@@ -14,7 +14,7 @@ public int digitSum(int input1) {
 
 // Write code here...
 
-boolean isNegative input1 < 10;
+boolean isNegative = input1 < 0;
 
 input1 = Math.abs(input1);
 
